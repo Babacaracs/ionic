@@ -1,0 +1,30 @@
+page-portofolio {
+ 
+    .card-background-page {
+
+        ion-card {
+            
+          position: relative;
+          text-align: center;
+        }
+      
+        .card-title {
+          position: absolute;
+          top: 16%;
+          font-size: 2.4em;
+          width: 100%;
+          font-weight: bold;
+          color: #00BCD4;
+        }
+      
+        .card-subtitle {
+          font-size: 1.2em;
+          position: absolute;
+          top: 52%;
+          width: 100%;
+          color: #00BCD4;
+        }
+      
+      }
+  
+  }
